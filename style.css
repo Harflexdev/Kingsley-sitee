@@ -580,6 +580,13 @@ font-size: 1rem;
         flex-direction:column ;
         
     }
+    #ic>h4{
+    /* display: flex; */
+    color: #009CDE;
+    transform: translateX(0);
+    position: absolute;
+    margin-top: 80px;
+}
     .footer-item{
         width: 90%;
         text-align: left;
